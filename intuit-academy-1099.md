@@ -44,6 +44,9 @@
    - add'l taxes eg amt, excess credits for health insurance
    - self employment taxes, unreported soc sec and medicare tax, add'l tax on ira, household employment tax, repayment of first time homebuyer credit, and foreign corps
 - schedule 3
-  - 
+  - add'l credits and payments 
+  - part 1: nonrefundable credits eg foreign tax credit, childcare expenses, retirement savings contribution
+  - part 2: refundable credits and other payments eg net premium tax credit, excess social security, and tier 1 RRTA tax withheld, deferred amt of net 965 tax liability
+ 
 
 
