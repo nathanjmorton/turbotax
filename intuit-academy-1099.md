@@ -68,6 +68,10 @@
   - credit for elderly and disabled
 - schedule eic
   - earned income credit for qualifying child
-
+- schedule se
+  - self employment tax for 400 or more in profits
+- schedule 8812
+  - part 1: non-refundable child tax credit and dependents carried to line 19 of 1040
+  - part 2: refundable child tax credit carried to line 28 of 1040
 
 
