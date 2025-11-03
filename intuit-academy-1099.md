@@ -47,6 +47,11 @@
   - add'l credits and payments 
   - part 1: nonrefundable credits eg foreign tax credit, childcare expenses, retirement savings contribution
   - part 2: refundable credits and other payments eg net premium tax credit, excess social security, and tier 1 RRTA tax withheld, deferred amt of net 965 tax liability
- 
+- schedule a
+  -  itemized deductions incl medical, dental, mortgage interest, state and local taxes, charity, casualty and theft losees from federal disaster
+- schedule b
+  - interest and dividend income > 1.5k with amounts reported carrying to form 1040 lines 2 and 3
+  - under 1.5k amounts don't need schedule b, but are still reported on 1040
+
 
 
