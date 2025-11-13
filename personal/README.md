@@ -1,5 +1,5 @@
 # Intuit Turbotax Personal Income Tax 1040
-
+- [1040 ebook](1040_ebook.pdf)
 - 4 versions:
 1. 1040
 2. 1040-SR (senior)
@@ -75,4 +75,4 @@
   - part 2: refundable child tax credit carried to line 28 of 1040
 
 ### Estimated Payments extensions and common errors
-
+- [estimated-payments](estimated_payments.pdf)
